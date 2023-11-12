@@ -432,3 +432,33 @@
     padding-right: 0;
     border-right: none;
 }
+
+.attestation {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h8 {
+    color: #333;
+}
+
+strong {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+p:last-child {
+    margin-bottom: 0;
+}
+
+.highlight {
+    color: blue; 
+}
